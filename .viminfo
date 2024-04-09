@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1712653529,,"wq!"
+|2,0,1712658003,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,14 +25,27 @@
 # Registers:
 
 # File marks:
-'0  1  26  ~/jenkinsfiles1.txt
-|4,48,1,26,1712653529,"~/jenkinsfiles1.txt"
+'0  1  15  ~/newfile.txt
+|4,48,1,15,1712658003,"~/newfile.txt"
+'1  1  26  ~/jenkinsfiles1.txt
+|4,49,1,26,1712653529,"~/jenkinsfiles1.txt"
 
 # Jumplist (newest first):
+-'  1  15  ~/newfile.txt
+|4,39,1,15,1712658003,"~/newfile.txt"
+-'  1  26  ~/jenkinsfiles1.txt
+|4,39,1,26,1712653529,"~/jenkinsfiles1.txt"
 -'  1  26  ~/jenkinsfiles1.txt
 |4,39,1,26,1712653529,"~/jenkinsfiles1.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/newfile.txt
+	*	1712658001	0
+	"	1	15
+	^	1	16
+	.	1	15
+	+	1	15
 
 > ~/jenkinsfiles1.txt
 	*	1712653526	0
